@@ -4,13 +4,13 @@
 https://d37oxm50m5chc3.cloudfront.net
 
 ## Doppler - Config Syncs
-![Config Syncs](./1.png)
+![Config Syncs](./1.jpeg)
 
 ## Doppler - Variables
-![Variables](./2.png)
+![Variables](./2.jpeg)
 
 ## GitHub Secrets
-![Secrets](./3.png)
+![Secrets](./3.jpeg)
 
 ## Captura de la aplicación
-![Aplicación](./4.png)
+![Aplicación](./4.jpeg)
